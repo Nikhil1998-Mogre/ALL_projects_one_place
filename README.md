@@ -20,8 +20,8 @@ The repository is organized into different categories based on the type of proje
 🔗 Connect with Me
 GitHub: Nikhil1998-Mogre
 
-LinkedIn: Your LinkedIn
+LinkedIn: https://www.linkedin.com/in/nikhilmogre/
 
-Email: Your Email
+Email: nikhilmogre1998@gmail.com
 
 🛠️ Feel free to explore, contribute, or reach out for collaboration! 🚀
