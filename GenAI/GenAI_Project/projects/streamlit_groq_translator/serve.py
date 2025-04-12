@@ -35,9 +35,9 @@ app = FastAPI(
 # Add LangServe routes
 add_routes(app, chain, path="/chain")
 
-# Fix for Pydantic schema generation error
-from langserve.pydantic_v1 import rebuild_all_models
-rebuild_all_models()
+# # Fix for Pydantic schema generation error
+# from langserve.pydantic_v1 import rebuild_all_models
+# rebuild_all_models()
 
 # Run
 if __name__ == "__main__":
